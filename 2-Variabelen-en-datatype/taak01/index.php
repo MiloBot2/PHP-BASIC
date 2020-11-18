@@ -3,8 +3,8 @@
 <body>
 
 <?php
-$score = 0;
-echo $score;
+lol$lol = 0;
+echo $lol;
 ?>
 
 </body>
