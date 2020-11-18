@@ -3,7 +3,7 @@
 <body>
 
 <?php
-lol$lol = 0;
+$lol = 0;
 echo $lol;
 ?>
 
